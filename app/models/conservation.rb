@@ -1,0 +1,2 @@
+class Conservation < ApplicationRecord
+end
